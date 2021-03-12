@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\RecursionExample\bin\Debug\RecursionExample.exe.config
+C:\Users\Admin\source\repos\RecursionExample\bin\Debug\RecursionExample.exe
+C:\Users\Admin\source\repos\RecursionExample\bin\Debug\RecursionExample.pdb
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.Form1.resources
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.exe
+C:\Users\Admin\source\repos\RecursionExample\obj\Debug\RecursionExample.pdb
